@@ -1,0 +1,29 @@
+{
+    "parent":"item/handheld",
+    "textures":{
+        "layer0":"item/netherite_shovel"
+    },
+    "overrides":[
+        { "predicate": { "custom_model_data": 50001}, "model": "item/toolskins/allay/shovel"},
+        { "predicate": { "custom_model_data": 50002}, "model": "item/toolskins/atlantis/shovel"},
+        { "predicate": { "custom_model_data": 50003}, "model": "item/toolskins/blaze/shovel"},
+        { "predicate": { "custom_model_data": 50004}, "model": "item/toolskins/bubblegum/shovel"},
+        { "predicate": { "custom_model_data": 50005}, "model": "item/toolskins/candy/shovel"},
+        { "predicate": { "custom_model_data": 50006}, "model": "item/toolskins/dark/shovel"},
+        { "predicate": { "custom_model_data": 50007}, "model": "item/toolskins/emperor/shovel"},
+        { "predicate": { "custom_model_data": 50008}, "model": "item/toolskins/fire/shovel"},
+        { "predicate": { "custom_model_data": 50009}, "model": "item/toolskins/ice/shovel"},
+        { "predicate": { "custom_model_data": 50010}, "model": "item/toolskins/infernal/shovel"},
+        { "predicate": { "custom_model_data": 50011}, "model": "item/toolskins/luck/shovel"},
+        { "predicate": { "custom_model_data": 50012}, "model": "item/toolskins/magic/shovel"},
+        { "predicate": { "custom_model_data": 50013}, "model": "item/toolskins/magma/shovel"},
+        { "predicate": { "custom_model_data": 50014}, "model": "item/toolskins/pinkiron/shovel"},
+        { "predicate": { "custom_model_data": 50015}, "model": "item/toolskins/power/shovel"},
+        { "predicate": { "custom_model_data": 50016}, "model": "item/toolskins/red/shovel"},
+        { "predicate": { "custom_model_data": 50017}, "model": "item/toolskins/sapphire/shovel"},
+        { "predicate": { "custom_model_data": 50018}, "model": "item/toolskins/silver/shovel"},
+        { "predicate": { "custom_model_data": 50019}, "model": "item/toolskins/sky/shovel"},
+        { "predicate": { "custom_model_data": 50020}, "model": "item/toolskins/skylord/shovel"},
+        { "predicate": { "custom_model_data": 50021}, "model": "item/toolskins/tech/shovel"}
+    ]
+}

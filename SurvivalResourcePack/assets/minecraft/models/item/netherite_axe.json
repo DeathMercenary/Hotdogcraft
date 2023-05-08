@@ -1,0 +1,29 @@
+{
+    "parent":"item/handheld",
+    "textures":{
+        "layer0":"item/netherite_axe"
+    },
+    "overrides":[
+        { "predicate": { "custom_model_data": 50001}, "model": "item/toolskins/allay/axe"},
+        { "predicate": { "custom_model_data": 50002}, "model": "item/toolskins/atlantis/axe"},
+        { "predicate": { "custom_model_data": 50003}, "model": "item/toolskins/blaze/axe"},
+        { "predicate": { "custom_model_data": 50004}, "model": "item/toolskins/bubblegum/axe"},
+        { "predicate": { "custom_model_data": 50005}, "model": "item/toolskins/candy/axe"},
+        { "predicate": { "custom_model_data": 50006}, "model": "item/toolskins/dark/axe"},
+        { "predicate": { "custom_model_data": 50007}, "model": "item/toolskins/emperor/axe"},
+        { "predicate": { "custom_model_data": 50008}, "model": "item/toolskins/fire/axe"},
+        { "predicate": { "custom_model_data": 50009}, "model": "item/toolskins/ice/axe"},
+        { "predicate": { "custom_model_data": 50010}, "model": "item/toolskins/infernal/axe"},
+        { "predicate": { "custom_model_data": 50011}, "model": "item/toolskins/luck/axe"},
+        { "predicate": { "custom_model_data": 50012}, "model": "item/toolskins/magic/axe"},
+        { "predicate": { "custom_model_data": 50013}, "model": "item/toolskins/magma/axe"},
+        { "predicate": { "custom_model_data": 50014}, "model": "item/toolskins/pinkiron/axe"},
+        { "predicate": { "custom_model_data": 50015}, "model": "item/toolskins/power/axe"},
+        { "predicate": { "custom_model_data": 50016}, "model": "item/toolskins/red/axe"},
+        { "predicate": { "custom_model_data": 50017}, "model": "item/toolskins/sapphire/axe"},
+        { "predicate": { "custom_model_data": 50018}, "model": "item/toolskins/silver/axe"},
+        { "predicate": { "custom_model_data": 50019}, "model": "item/toolskins/sky/axe"},
+        { "predicate": { "custom_model_data": 50020}, "model": "item/toolskins/skylord/axe"},
+        { "predicate": { "custom_model_data": 50021}, "model": "item/toolskins/tech/axe"}
+    ]
+}
