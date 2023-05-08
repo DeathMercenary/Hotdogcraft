@@ -830,7 +830,7 @@
 
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/knight.png",
+            "file":"minecraft:guis/menus/ranks/green-rank-gui.png",
             "ascent":32,
             "height":75,
             "chars":[
@@ -839,7 +839,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/lord.png",
+            "file":"minecraft:guis/menus/ranks/blue-rank-gui.png",
             "ascent":32,
             "height":75,
             "chars":[
@@ -848,7 +848,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/paladin.png",
+            "file":"minecraft:guis/menus/ranks/yellow-rank-gui.png",
             "ascent":32,
             "height":75,
             "chars":[
@@ -857,7 +857,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/duke.png",
+            "file":"minecraft:guis/menus/ranks/red-rank-gui.png",
             "ascent":32,
             "height":75,
             "chars":[
@@ -866,7 +866,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/king.png",
+            "file":"minecraft:guis/menus/ranks/orange-rank-gui.png",
             "ascent":32,
             "height":75,
             "chars":[
