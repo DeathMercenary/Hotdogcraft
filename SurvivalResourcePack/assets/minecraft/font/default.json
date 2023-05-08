@@ -11,7 +11,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/prefixes/knight.png",
+            "file":"minecraft:guis/prefixes/pickle.png",
             "ascent":7,
             "height":8,
             "chars":[
@@ -20,7 +20,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/prefixes/lord.png",
+            "file":"minecraft:guis/prefixes/onion.png",
             "ascent":7,
             "height":8,
             "chars":[
@@ -29,7 +29,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/prefixes/paladin.png",
+            "file":"minecraft:guis/prefixes/mustard.png",
             "ascent":7,
             "height":8,
             "chars":[
@@ -38,7 +38,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/prefixes/duke.png",
+            "file":"minecraft:guis/prefixes/ketchup.png",
             "ascent":7,
             "height":8,
             "chars":[
@@ -47,7 +47,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/prefixes/king.png",
+            "file":"minecraft:guis/prefixes/hotdog.png",
             "ascent":7,
             "height":8,
             "chars":[
