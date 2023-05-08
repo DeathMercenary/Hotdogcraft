@@ -830,7 +830,7 @@
 
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/green-rank-gui.png",
+            "file":"minecraft:guis/menus/ranks/green.png",
             "ascent":32,
             "height":75,
             "chars":[
@@ -839,7 +839,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/blue-rank-gui.png",
+            "file":"minecraft:guis/menus/ranks/blue.png",
             "ascent":32,
             "height":75,
             "chars":[
@@ -848,7 +848,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/yellow-rank-gui.png",
+            "file":"minecraft:guis/menus/ranks/yellow.png",
             "ascent":32,
             "height":75,
             "chars":[
@@ -857,7 +857,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/red-rank-gui.png",
+            "file":"minecraft:guis/menus/ranks/red.png",
             "ascent":32,
             "height":75,
             "chars":[
@@ -866,7 +866,7 @@
         },
         {
             "type":"bitmap",
-            "file":"minecraft:guis/menus/ranks/orange-rank-gui.png",
+            "file":"minecraft:guis/menus/ranks/orange.png",
             "ascent":32,
             "height":75,
             "chars":[
